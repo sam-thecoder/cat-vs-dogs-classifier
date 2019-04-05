@@ -1,0 +1,12 @@
+sklearn==0.0
+tensorboard==1.12.2
+tensorflow==1.12.0
+scikit-image==0.14.2
+scikit-learn==0.20.3
+scipy==1.2.1
+opencv-contrib-python==4.0.0.21
+pandas==0.24.1
+numpy==1.16.1
+jupyter==1.0.0
+Keras==2.2.4
+tqdm==4.31.1
